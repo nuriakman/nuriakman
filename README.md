@@ -2,11 +2,14 @@
 <h3 align="center">Full-Stack Developer</h3>
 <p align='center'> <img src="https://wakatime.com/badge/user/3f63702d-187f-430f-a970-94b499de6a74.svg"> </p>
 
-- 🔭 I’m currently working on **Freelancer**
+- ⚙️ I'm working as a **freelancer**
 
-- 🌱 I’m currently learning **Vuejs, Quasar, Vuetify**
+- 🚘 I’m using **Vuejs, Quasar, Vuetify, PHP, MySQL, Linux**
 
-- 📫 Reach me at nuriakman@gmail.com
+- ✉️ Contact me at nuriakman@gmail.com
+
+- ✨ See my coding journey on [wakatime](https://wakatime.com/@nuriakman)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuriakman&show_icons=true&locale=en&layout=compact" alt="nuriakman" /></p>
 
