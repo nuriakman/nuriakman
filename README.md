@@ -18,3 +18,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuriakman&" alt="nuriakman" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuriakman&label=ProfileViews&color=0e75b6&style=flat" alt="nuriakman" /> </p>
+
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <img src="https://github-profile-trophy.vercel.app/?username=nuriakman&column=3"/>
+</div>
