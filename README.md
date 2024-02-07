@@ -21,5 +21,5 @@
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
-  <img src="https://github-profile-trophy.vercel.app/?username=nuriakman&column=3"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nuriakman&column=3&margin-w=15&margin-h=15"/>
 </div>
