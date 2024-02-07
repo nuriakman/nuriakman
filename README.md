@@ -11,13 +11,13 @@
 - ✨ See my coding journey on [wakatime](https://wakatime.com/@nuriakman)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuriakman&show_icons=true&locale=en&layout=compact" alt="nuriakman" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuriakman&show_icons=true&locale=en&layout=compact" alt="nuriakman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuriakman&show_icons=true&locale=en" alt="nuriakman" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=nuriakman&show_icons=true&locale=en" alt="nuriakman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuriakman&" alt="nuriakman" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nuriakman&" alt="nuriakman" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuriakman&label=ProfileViews&color=0e75b6&style=flat" alt="nuriakman" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=nuriakman&label=ProfileViews&color=0e75b6&style=flat" alt="nuriakman" /></p>
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
